@@ -1,6 +1,4 @@
-# Project - Group 01
-## Team Name - TeamUno
-## Project Title - Similarity Analyzer - UnoCheck
+#Similarity Analyzer - UnoCheck
 
 
 ## About UnoCheck 
@@ -54,25 +52,4 @@ source .venv/bin/activate
 python3 model.py
 ```
 
- ## Developers
-#### **Ananna Dristy**
-       Email - anannadristy03@gmail.com
-       Github Profile - Dristy03
-       Contribution - Building Model
-#### **Kawchar Husain**
-       Email - kawsarhn1@gmail.com
-       Github - kawchar85
-       Contribution - Model Processing
-#### **Kaifa Tabassum**
-       Email - tabassumkaifa2@gmail.com
-       Github - kaifatab
-       Contribution - Dataset Preparation
-#### **Omar Sultan**
-       Email - omarsultan@gmail.com
-       Github - omarsultan054
-       Contribution - Application
-#### **Debpriya Dhar**
-       Email - debpriya.susmoy1999@gmail.com
-       Github - debpriya65
-       Contribution - Application
 
